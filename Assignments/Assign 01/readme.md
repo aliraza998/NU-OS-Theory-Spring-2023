@@ -21,7 +21,6 @@ Step 06: Adding the prototype of the new system call into the system calls heade
 Step 07: Changing version and adding the hello folder in the kernel’s Makefile, change  EXTRAVERSION to my roll number:
 ![image](https://user-images.githubusercontent.com/107793398/221271933-2ff2fb41-2b26-458f-bf21-5db052a5d90c.png)
 
- ![image](https://user-images.githubusercontent.com/107793398/221266746-4f0ae338-3392-4c52-8618-50de2e3b1827.png)
 
 Step 08: Creating a config file:
 ![image](https://user-images.githubusercontent.com/107793398/221273051-be3aab66-bb3b-4b55-9b47-9441400628e1.png)
