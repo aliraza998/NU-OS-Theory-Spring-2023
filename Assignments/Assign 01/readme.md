@@ -23,6 +23,7 @@ Step 07: Changing version and adding the hello folder in the kernel’s Makefile
 
 
 Step 08: Creating a config file:
+![image](https://user-images.githubusercontent.com/107793398/221276650-55fb7f72-1791-479d-a5be-ed5bf856edf8.png)
 ![image](https://user-images.githubusercontent.com/107793398/221273051-be3aab66-bb3b-4b55-9b47-9441400628e1.png)
 ![image](https://user-images.githubusercontent.com/107793398/221273080-06c51a6a-de6b-4fde-b422-19454c70e32d.png)
 ![image](https://user-images.githubusercontent.com/107793398/221273098-3a2f284d-e97c-4cc8-8792-fdcef7989afa.png)
